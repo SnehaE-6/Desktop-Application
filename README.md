@@ -1,4 +1,4 @@
-# Desktop-Application
+# Desktop-Application-FrontEnd
 ## Project Description:Desktop Application for Form Submissions
 This project involves the development of a Windows desktop application and a backend server to manage form submissions. The desktop application is created using Visual Basic in Visual Studio, and the backend server is built with Express and TypeScript.
 
